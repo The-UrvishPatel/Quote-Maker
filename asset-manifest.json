@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Quote-Maker/static/css/main.076a6191.css",
+    "main.js": "/Quote-Maker/static/js/main.d70094ee.js",
+    "static/media/SquareLogo.png": "/Quote-Maker/static/media/SquareLogo.988a4b53e3ffe379fd90.png",
+    "index.html": "/Quote-Maker/index.html",
+    "main.076a6191.css.map": "/Quote-Maker/static/css/main.076a6191.css.map",
+    "main.d70094ee.js.map": "/Quote-Maker/static/js/main.d70094ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.076a6191.css",
+    "static/js/main.d70094ee.js"
+  ]
+}
